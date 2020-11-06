@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\Sec02.exe
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\Sec02.deps.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\Sec02.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\Sec02.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\Sec02.dll
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\Sec02.pdb
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\Sec02.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\Sec02.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\Sec02.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\Sec02.dll
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\Sec02.pdb
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\Sec02.genruntimeconfig.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\Sec02.csprojAssemblyReference.cache
