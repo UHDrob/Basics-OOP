@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Rob77\\Source\\Repos\\Basics-OOP\\Sec02\\Sec02\\Sec02.csproj",
-      "projectName": "Sec02",
-      "projectPath": "D:\\Users\\Rob77\\Source\\Repos\\Basics-OOP\\Sec02\\Sec02\\Sec02.csproj",
+      "projectUniqueName": "D:\\Users\\Rob77\\Source\\Repos\\Basics-OOP\\Sec02\\Sec02\\IntrotoOOP.csproj",
+      "projectName": "IntrotoOOP",
+      "projectPath": "D:\\Users\\Rob77\\Source\\Repos\\Basics-OOP\\Sec02\\Sec02\\IntrotoOOP.csproj",
       "packagesPath": "C:\\Users\\Rob77\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\Rob77\\Source\\Repos\\Basics-OOP\\Sec02\\Sec02\\obj\\",
       "projectStyle": "PackageReference",

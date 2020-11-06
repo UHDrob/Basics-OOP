@@ -1,12 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Sec02;
 
 
 namespace PointsAndLines
 {
    class User
    {
+
+      public readonly int HEIGHT;
+      public readonly int ID;
+
+      public static int currentID;
+
+      public  Race race;
+
       private string username;
       private int password;
 
@@ -21,6 +30,10 @@ namespace PointsAndLines
 
       public int Password
       {
+         get
+         {
+            return password;
+         }
 
          set
          {
@@ -37,12 +50,25 @@ namespace PointsAndLines
 
       public User()
       {
-
+         currentID++;
+         ID = currentID;
       }
 
-      public User(string username)
+      public User(string username, Race race)
       {
+         currentID++;
+         ID = currentID;
          this.username = username;
+         this.race = race;
+         if (this.race == Race.Martian)
+         {
+            HEIGHT = 100;
+         }
+         else if (this.race==Race.Earthing)
+         {
+            HEIGHT = 180;
+         }
+         race = Race.Martian;
 
       }
    }

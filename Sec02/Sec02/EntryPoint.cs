@@ -12,13 +12,19 @@ namespace Sec02
    {
       static void Main()
       {
-         User user = new User("Vachev");
+         User user = new User("Vachev", Race.Earthing);
 
-         user.Password = 2;
+         User secondUser = new User();
 
-         System.Console.WriteLine(user.Username);
+         User thirdUser = new User();
 
+         Console.ForegroundColor = ConsoleColor.DarkRed;
 
+         Console.WriteLine(user.ID);
+         Console.WriteLine(secondUser.ID);
+         Console.WriteLine(thirdUser.ID);
+
+         Console.WriteLine(User.currentID);
       }
    }
 }
