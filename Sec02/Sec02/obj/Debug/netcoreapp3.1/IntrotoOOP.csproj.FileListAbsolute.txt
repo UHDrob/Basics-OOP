@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\IntrotoOOP.exe
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\IntrotoOOP.deps.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\IntrotoOOP.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\IntrotoOOP.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\IntrotoOOP.dll
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\bin\Debug\netcoreapp3.1\IntrotoOOP.pdb
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\IntrotoOOP.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\IntrotoOOP.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\IntrotoOOP.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\IntrotoOOP.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\IntrotoOOP.dll
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\IntrotoOOP.pdb
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\Sec02\obj\Debug\netcoreapp3.1\IntrotoOOP.genruntimeconfig.cache

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Sec02;
+using IntrotoOOP;
 
 
 namespace PointsAndLines
@@ -68,8 +68,11 @@ namespace PointsAndLines
          {
             HEIGHT = 180;
          }
-         race = Race.Martian;
+      }
 
+      public void SayMyName()
+      {
+         Utilities.ColorfulWriteLine(this.username, System.ConsoleColor.DarkGreen);
       }
    }
 }

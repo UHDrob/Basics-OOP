@@ -1,6 +1,6 @@
 ﻿
 
-namespace Sec02
+namespace IntrotoOOP
 {
    enum Race
    {

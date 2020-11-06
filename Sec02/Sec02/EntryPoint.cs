@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using PointsAndLines;
 
-namespace Sec02
+namespace IntrotoOOP
 {
 
    class EntryPoint
@@ -17,6 +17,10 @@ namespace Sec02
          User secondUser = new User();
 
          User thirdUser = new User();
+
+         user.SayMyName();
+
+         Utilities.ColorfulWriteLine(user.Username, ConsoleColor.DarkRed);
 
          Console.ForegroundColor = ConsoleColor.DarkRed;
 
