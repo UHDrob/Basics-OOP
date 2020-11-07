@@ -8,8 +8,8 @@ namespace WarriorWars
 {
    class Warrior
    {
-      private const int GOOD_GUY_STARTING_HEALTH = 100;
-      private const int BAD_GUY_STARTING_HEALTH = 100;
+      private const int GOOD_GUY_STARTING_HEALTH = 20;
+      private const int BAD_GUY_STARTING_HEALTH = 20;
 
       private readonly Faction FACTION;
 
@@ -58,16 +58,23 @@ namespace WarriorWars
 
          enemy.health = enemy.health - damage;
 
+         AttackResult(enemy, damage);
+          
+      }
+
+      private void AttackResult(Warrior enemy, int damage)
+      {
          if (enemy.health <= 0)
          {
             enemy.isAlive = false;
-            System.Console.WriteLine($"{enemy.name} is dead! {name} is victorious");
+            Tools.ColorfulWriteLine($"{enemy.name} is dead! ", ConsoleColor.Red);
+            Tools.ColorfulWriteLine($"{name} is victorious", ConsoleColor.Green);
          }
          else
          {
-               System.Console.WriteLine($"{name} attacked {enemy.name}. {damage} damage was inflicted to {enemy.name}, remaining health of {enemy.name} is {enemy.health}");
+            System.Console.WriteLine(
+               $"{name} attacked {enemy.name}. {damage} damage was inflicted to {enemy.name}, remaining health of {enemy.name} is {enemy.health}");
          }
-          
       }
    }
 }
