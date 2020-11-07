@@ -1,0 +1,13 @@
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\bin\Debug\netcoreapp3.1\WarriorWars.exe
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\bin\Debug\netcoreapp3.1\WarriorWars.deps.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\bin\Debug\netcoreapp3.1\WarriorWars.runtimeconfig.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\bin\Debug\netcoreapp3.1\WarriorWars.runtimeconfig.dev.json
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\bin\Debug\netcoreapp3.1\WarriorWars.dll
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\bin\Debug\netcoreapp3.1\WarriorWars.pdb
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\obj\Debug\netcoreapp3.1\WarriorWars.csprojAssemblyReference.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\obj\Debug\netcoreapp3.1\WarriorWars.AssemblyInfoInputs.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\obj\Debug\netcoreapp3.1\WarriorWars.AssemblyInfo.cs
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\obj\Debug\netcoreapp3.1\WarriorWars.csproj.CoreCompileInputs.cache
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\obj\Debug\netcoreapp3.1\WarriorWars.dll
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\obj\Debug\netcoreapp3.1\WarriorWars.pdb
+D:\Users\Rob77\Source\Repos\Basics-OOP\Sec02\WarriorWars\obj\Debug\netcoreapp3.1\WarriorWars.genruntimeconfig.cache

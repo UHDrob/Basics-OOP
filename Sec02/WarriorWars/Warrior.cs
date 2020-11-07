@@ -52,5 +52,22 @@ namespace WarriorWars
          }
       }
 
+      public void Attack(Warrior enemy)
+      {
+         int damage = weapon.Damage / enemy.armor.ArmorPoints;
+
+         enemy.health = enemy.health - damage;
+
+         if (enemy.health <= 0)
+         {
+            enemy.isAlive = false;
+            System.Console.WriteLine($"{enemy.name} is dead! {name} is victorious");
+         }
+         else
+         {
+               System.Console.WriteLine($"{name} attacked {enemy.name}. {damage} damage was inflicted to {enemy.name}, remaining health of {enemy.name} is {enemy.health}");
+         }
+          
+      }
    }
 }
